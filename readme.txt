@@ -3,4 +3,12 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new brach is quick.
+
 591-6073000-SY2-4100S0-0606-000
+    PG00995
+    PG02399
+    PG06687
+    PG01609
+stockable to consumable
+
+PG02456AD 100% to be added to VTC to 2015
