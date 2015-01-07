@@ -12,3 +12,7 @@ Creating a new brach is quick.
 stockable to consumable
 
 PG02456AD 100% to be added to VTC to 2015
+
+591-6021015-DDD-958102-1226-000 TC
+591-6021015-DDD-958103-1016-000 PL
+inventory stock adjustment accounts

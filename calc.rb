@@ -1,1 +1,3 @@
-puts 1+2
+puts 'Hello, world!'
+puts ''
+puts 'Good-bye.'
