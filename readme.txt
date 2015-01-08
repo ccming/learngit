@@ -16,3 +16,7 @@ PG02456AD 100% to be added to VTC to 2015
 591-6021015-DDD-958102-1226-000 TC
 591-6021015-DDD-958103-1016-000 PL
 inventory stock adjustment accounts
+
+Costing Brand:002.MI.G
+Costing FG Category:AP1.TC.FG
+J412607CY01:226900
